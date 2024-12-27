@@ -1,0 +1,34 @@
+h1 {
+    font-family: HELVETICA;
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    
+}
+
+p{
+    padding: 25px 50px 70px 90px;
+    background-color: white;
+}
+p{
+    display: square;
+    height: 20%;
+    background-color: cornflowerblue;
+    color:aqua;
+    font-size: 60px;
+    text-align: center;
+}
+h2{
+    font-family: HELVETICA;
+    font-size: 80px;
+    color: black;
+    text-align: center;
+}
+nav a{
+    display: inline-block;
+    padding: 14px 16px;
+    color: black;
+    background-color: pink;
+    float: right;
+}
+
